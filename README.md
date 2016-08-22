@@ -2,5 +2,5 @@
 A Decentralized eSports Platform Based on Smart Contract
 
 # Contact
-For commerical usage contact [mailto:team@firstblood.io]team@firstblood.io
-For non-commercial usage notify us @ [https://slack.firstblood.io]slack.firstblood.io
+For commerical usage contact team@firstblood.io <br>
+For non-commercial usage notify us at slack.firstblood.io
