@@ -13,3 +13,8 @@ For app/article/blog with light background (`#ffffff`), logo with shield is reco
 
 # Contents
 <li>logo.png</li>
+<li>esports_global.png</li>
+<li>logo-shadow.png	</li>
+<li>logo.png</li>
+<li>logo_no_shield.png</li>
+<li>logo_soft.png	Add</li>
