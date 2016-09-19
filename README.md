@@ -21,3 +21,5 @@ For app/article/blog with light background (`#ffffff`), logo with shield is reco
 <li>logo_no_shield.png</li>
 <li>logo_soft.png</li>
 <li>token_utilities.png</li>
+<li>crowdsale_time_zone.png.png</li>
+
