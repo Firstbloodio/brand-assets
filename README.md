@@ -1,3 +1,5 @@
+<img src = "https://github.com/Firstbloodio/firstblood-www/raw/master/resources/img/main/logo_shield_b.jpg" width = "30%">
+
 # FirstBlood Brand Assets 
 A Decentralized eSports Platform Based on Smart Contract
 
