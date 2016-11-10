@@ -5,7 +5,7 @@ A Decentralized eSports Platform Based on Smart Contract
 
 # Contact
 For commerical usage please contact team@firstblood.io <br>
-For additonal media inquiries please contact team@firstblood.io <br>
+For additonal media inquiries please contact marketing@firstblood.io <br>
 For non-commercial usage please notify us at https://slack.firstblood.io
 
 # Guidelines
@@ -16,7 +16,9 @@ For app/article/blog with dark background (`#000000`), [original logo](logo.png)
 For app/article/blog with light background (`#ffffff`), [logo with shield](logo_black_shied.png) is recommended <br>
 
 ##Token Logo
+<img src = "1st_token_logo.png" width = "5%"><br>
 For token logo please use [1st_token_logo.png](1st_token_logo.png) <br>
+
 
 # Contents
 <li>logo.png</li>
