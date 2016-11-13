@@ -32,4 +32,5 @@ For token logo please use [1st_token_logo.png](1st_token_logo.png) <br>
 <li>logo_soft.png</li>
 <li>token_utilities.png</li>
 <li>crowdsale_time_zone.png.png</li>
-
+<li>logo_black.png</li>
+<li>logo_black_shied.png</li>
