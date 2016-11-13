@@ -1,5 +1,7 @@
 <img src = "logo_black_shied.png" width = "30%">
 
+###NOTE: DO NOT USE FIRSTBLOOD LOGO WITHOUT OUR CONSENT.
+
 # FirstBlood Brand Assets 
 A Decentralized eSports Platform Based on Smart Contract
 
