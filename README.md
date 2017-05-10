@@ -21,6 +21,15 @@ For app/article/blog with light background (`#ffffff`), [logo with shield](logo_
 <img src = "1st_token_logo.png" width = "5%"><br>
 For token logo please use [1st_token_logo.png](1st_token_logo.png) <br>
 
+### Circle Logo (1ST)
+<img src = "1st_token_circle_400x400.png" width = "5%"><br>
+For circle token logo please use [1st_token_circle_400x400.png](1st_token_circle_400x400.png) <br>
+
+### Pure FB Logo (FB)
+<img src = "fb_token_circle_400x400.png" width = "5%"><br>
+For cicle fb logo please use [fb_token_circle_400x400.png](fb_token_circle_400x400.png) <br>
+
+
 
 # Contents
 <li>logo.png</li>
