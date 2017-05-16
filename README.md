@@ -1,6 +1,6 @@
 <img src = "logo_black_shied.png" width = "30%">
 
-#### DO NOT USE FIRSTBLOOD™ LOGO WITHOUT OUR CONSENT. <br>在我们的准许之前请勿使用我们的LOGO<br>НЕ ИСПОЛЬЗУЙТЕ ЛОГОТИП FIRSTBLOOD™ БЕЗ НАШЕГО СОГЛАСИЯ.<br>NO UTILICE FIRSTBLOOD™ LOGO SIN NUESTRO CONSENTIMIENTO.
+#### DO NOT USE FIRSTBLOOD™ LOGO WITHOUT OUR CONSENT. <br>在我们的准许之前请勿使用我们FIRSTBLOOD™的LOGO<br>НЕ ИСПОЛЬЗУЙТЕ ЛОГОТИП FIRSTBLOOD™ БЕЗ НАШЕГО СОГЛАСИЯ.<br>NO UTILICE FIRSTBLOOD™ LOGO SIN NUESTRO CONSENTIMIENTO.
 
 
 # FirstBlood Brand Assets 
